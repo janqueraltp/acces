@@ -9,18 +9,18 @@ Microsoft Acces - SMIX.1
 3. :one: [Activitat 1](#id2)  
  
 <div id='id1' />  
-
 ## Indroducció :bookmark_tabs:
 
+x
 
 
+<div id='id3' />
 ## Qué es Acces? :question:
 
 **Microsoft Access** es un sistema de gestión de bases de datos incluido en las ediciones profesionales de la suite Microsoft Office. Es el sucesor de Embedded Basic. Access es un gestor de datos que utiliza los conceptos de bases de datos relacionales y pueden manejarse por medio de consultas e informes.
 
 
 <div id='id2' />
-
 ## Activitat 1 :one:
 
 | Tabla de libros | Tabla de prestamo | Tabla de usuaro |
