@@ -9,7 +9,10 @@ Microsoft Acces @janqueraltp
 3. :end: [Final](#id500)
 <div id='id1' />  
 
-
+| Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text |
 
 
 
