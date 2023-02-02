@@ -19,11 +19,11 @@ Microsoft Acces @janqueraltp
 
 | Tabla de libros | Tabla de prestamo | Tabla de usuaro |
 | ----------- | ----------- | ----------- |
-| Codigo de libro | Title | Title |
-| Nombre de libro | Text | Text |
-| Editorial | Text | Text |
-| Autor del libro | Text | Text |
-| Genero | Text | Text |
+| Codigo de libro | Numero de pedidos | Nombre |
+| Nombre de libro | Codigo de libro | Apellido |
+| Editorial | DNI usuario | DNI |
+| Autor del libro | Fecha de salida | Codigo de usuario |
+| Genero | Fecha de devolucion | -- |
 
 
 
