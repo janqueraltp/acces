@@ -17,7 +17,7 @@ Microsoft Acces @janqueraltp
 
 ## Activitat 1 :one:
 
-| Tabla de libros | Description |
+| Tabla de libros | Tabla de prestamo | Tabla de usuaro |
 | ----------- | ----------- |
 | Header | Title |
 | Paragraph | Text |
