@@ -5,9 +5,9 @@ Microsoft Acces - SMIX.1
 
 ## 📖 Índice			
 1. :bookmark_tabs: [Introducció](#id1)  
-2. :one: [Activitat 1](#id2)  
-3. :question: [ Qué es Acces?](#id3) 
-4. :end: [Final](#id500)
+2. :question: [ Qué es Acces?](#id3)
+3. :one: [Activitat 1](#id2)  
+ 
 <div id='id1' />  
 
 ## Indroducció :bookmark_tabs:
