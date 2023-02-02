@@ -1,7 +1,7 @@
 ![image](img/logo.png)
 # ![image](img/Appp.png) Microsoft Acces
 
-Microsoft Acces @janqueraltp
+Microsoft Acces - SMIX.1
 
 ## 📖 Índice			
 1. :bookmark_tabs: [Introducció](#id1)  
