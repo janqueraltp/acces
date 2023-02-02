@@ -1,2 +1,2 @@
-# Microsoft Acces :octocat:
+# Microsoft Acces
 Microsoft Acces @janqueraltp
