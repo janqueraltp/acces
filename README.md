@@ -2,6 +2,6 @@
 
 Microsoft Acces @janqueraltp
 
-## 📖 Índice
+## 📖 Índice			
 1. :bookmark_tabs: [Introducció](#id1)  
 <div id='id1' />  
