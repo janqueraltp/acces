@@ -19,8 +19,11 @@ Microsoft Acces @janqueraltp
 
 | Tabla de libros | Tabla de prestamo | Tabla de usuaro |
 | ----------- | ----------- | ----------- |
-| Header | Title | Title |
-| Paragraph | Text | Text |
+| Codigo de libro | Title | Title |
+| Nombre de libro | Text | Text |
+| Editorial | Text | Text |
+| Autor del libro | Text | Text |
+| Genero | Text | Text |
 
 
 
