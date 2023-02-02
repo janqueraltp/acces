@@ -17,7 +17,7 @@ Microsoft Acces @janqueraltp
 
 ## Activitat 1 :one:
 
-| Syntax | Description |
+| Tabla de libros | Description |
 | ----------- | ----------- |
 | Header | Title |
 | Paragraph | Text |
