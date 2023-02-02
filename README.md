@@ -20,10 +20,10 @@ Microsoft Acces - SMIX.1
 
 | Tabla de libros | Tabla de prestamo | Tabla de usuaro |
 | ----------- | ----------- | ----------- |
-| Codigo de libro | Numero de pedidos | Nombre |
+| **Codigo de libro** | Numero de pedidos | Nombre |
 | Nombre de libro | Codigo de libro | Apellido |
-| Editorial | DNI usuario | DNI |
-| Autor del libro | Fecha de salida | Codigo de usuario |
+| Editorial | **DNI usuario** | DNI |
+| Autor del libro | Fecha de salida | **Codigo de usuario** |
 | Genero | Fecha de devolucion | -- |
 
 
