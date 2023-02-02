@@ -25,14 +25,9 @@ Microsoft Acces - SMIX.1
 | Editorial | **DNI usuario** [^nota1] | DNI |
 | Autor del libro | Fecha de salida | **Codigo de usuario** [^nota1]|
 | Genero | Fecha de devolucion | -- |
+[^nota1]: x
 
 
 
 
-
-
-
-
-
-[^nota1]
 <div id='id500' />
