@@ -12,9 +12,11 @@ Microsoft Acces - SMIX.1
 
 ## Indroducció :bookmark_tabs:
 
-**Microsoft Access** es un sistema de gestión de bases de datos incluido en las ediciones profesionales de la suite Microsoft Office. Es el sucesor de Embedded Basic. Access es un gestor de datos que utiliza los conceptos de bases de datos relacionales y pueden manejarse por medio de consultas e informes.
+
 
 ## Qué es Acces? :question:
+
+**Microsoft Access** es un sistema de gestión de bases de datos incluido en las ediciones profesionales de la suite Microsoft Office. Es el sucesor de Embedded Basic. Access es un gestor de datos que utiliza los conceptos de bases de datos relacionales y pueden manejarse por medio de consultas e informes.
 
 
 <div id='id2' />
