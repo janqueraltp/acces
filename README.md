@@ -42,7 +42,7 @@ x
 | NOMBRE | GENERO | PLATAFORMA | DESARROLLADORES |
 | ----------- | ----------- | ----------- | ----------- |
 | FIFA | Deportes | PC, PlayStation, Nintendo, Switch | X |
-| CALL OF DUTY | Codigo de libro | Apellido | X |
+| CALL OF DUTY | Codigo de libro | Apellido | Activision, Treyarch, Infinity War |
 | POKÉMON | DNI usuario | DNI | X |
 
 
