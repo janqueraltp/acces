@@ -39,12 +39,12 @@ x
 ## Activitat 2 :two:
 
 ### TABLA JUEGOS
-| Tabla de libros | Tabla de prestamo | Tabla de usuaro |
-| ----------- | ----------- | ----------- |
-| **Codigo de libro** [^nota1] | Numero de pedidos | Nombre |
-| Nombre de libro | Codigo de libro | Apellido |
-| Editorial | DNI usuario [^nota1] | DNI |
-| Autor del libro | Fecha de salida | Codigo de usuario |
+| NOMBRE | GENERO | PLATAFORMA | DESARROLLADORES |
+| ----------- | ----------- | ----------- | ----------- |
+| Codigo de libro | Numero de pedidos | Nombre | X |
+| Nombre de libro | Codigo de libro | Apellido | X |
+| Editorial | DNI usuario | DNI | X |
+| Autor del libro | Fecha de salida | Codigo de usuario | 
 | Genero | Fecha de devolucion | -- |
 [^nota1]:
 
