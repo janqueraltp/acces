@@ -41,9 +41,9 @@ x
 ### TABLA JUEGOS
 | NOMBRE | GENERO | PLATAFORMA | DESARROLLADORES |
 | ----------- | ----------- | ----------- | ----------- |
-| FIFA | Deportes | PC, PlayStation, Nintendo, Switch... | X |
-| CALL OF DUTY | Codigo de libro | PC, PlayStation, Nintendo, Switch... | Activision, Treyarch, Infinity War |
-| POKÉMON | DNI usuario | DNI | X |
+| FIFA | Deportes | PC, PlayStation, Nintendo, Switch... | EA Sports |
+| CALL OF DUTY | Accion | PC, PlayStation, Nintendo, Switch... | Activision, Treyarch, Infinity War |
+| POKÉMON | RPG | Nintendo | Game Freak |
 
 
 <div id='id500' />
