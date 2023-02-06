@@ -38,6 +38,7 @@ x
 
 ## Activitat 2 :two:
 
+### TABLA JUEGOS
 | Tabla de libros | Tabla de prestamo | Tabla de usuaro |
 | ----------- | ----------- | ----------- |
 | **Codigo de libro** [^nota1] | Numero de pedidos | Nombre |
