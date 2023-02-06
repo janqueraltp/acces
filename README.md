@@ -46,6 +46,10 @@ x
 | POKÉMON | RPG | Nintendo | Game Freak |
 
 ### TABLA JUGADORES
-
+| NICK | EDAT | NIVEL | TIEMPO DE JUEGO |
+| ----------- | ----------- | ----------- | ----------- |
+| FIFA | Deportes | PC, PlayStation, Nintendo, Switch... | EA Sports |
+| CALL OF DUTY | Accion | PC, PlayStation, Nintendo, Switch... | Activision, Treyarch, Infinity War |
+| POKÉMON | RPG | Nintendo | Game Freak |
 
 <div id='id500' />
