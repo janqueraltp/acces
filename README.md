@@ -45,5 +45,7 @@ x
 | CALL OF DUTY | Accion | PC, PlayStation, Nintendo, Switch... | Activision, Treyarch, Infinity War |
 | POKÉMON | RPG | Nintendo | Game Freak |
 
+### TABLA JUGADORES
+
 
 <div id='id500' />
