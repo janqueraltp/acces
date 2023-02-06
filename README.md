@@ -41,12 +41,9 @@ x
 ### TABLA JUEGOS
 | NOMBRE | GENERO | PLATAFORMA | DESARROLLADORES |
 | ----------- | ----------- | ----------- | ----------- |
-| Codigo de libro | Numero de pedidos | Nombre | X |
-| Nombre de libro | Codigo de libro | Apellido | X |
-| Editorial | DNI usuario | DNI | X |
-| Autor del libro | Fecha de salida | Codigo de usuario | 
-| Genero | Fecha de devolucion | -- |
-[^nota1]:
+| FIFA | Numero de pedidos | Nombre | X |
+| CALL OF DUTY | Codigo de libro | Apellido | X |
+| POKÉMON | DNI usuario | DNI | X |
 
 
 <div id='id500' />
