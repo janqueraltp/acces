@@ -36,6 +36,16 @@ x
 [^nota1]:
 
 
+## Activitat 2 :two:
+
+| Tabla de libros | Tabla de prestamo | Tabla de usuaro |
+| ----------- | ----------- | ----------- |
+| **Codigo de libro** [^nota1] | Numero de pedidos | Nombre |
+| Nombre de libro | Codigo de libro | Apellido |
+| Editorial | **DNI usuario** [^nota1] | DNI |
+| Autor del libro | Fecha de salida | **Codigo de usuario** [^nota1]|
+| Genero | Fecha de devolucion | -- |
+[^nota1]:
 
 
 <div id='id500' />
