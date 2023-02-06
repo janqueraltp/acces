@@ -41,7 +41,7 @@ x
 ### TABLA JUEGOS
 | NOMBRE | GENERO | PLATAFORMA | DESARROLLADORES |
 | ----------- | ----------- | ----------- | ----------- |
-| FIFA | Numero de pedidos | Nombre | X |
+| FIFA | Deportes | PC, PlayStation, Nintendo, Switch | X |
 | CALL OF DUTY | Codigo de libro | Apellido | X |
 | POKÉMON | DNI usuario | DNI | X |
 
