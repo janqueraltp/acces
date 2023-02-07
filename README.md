@@ -56,4 +56,8 @@ x
 | CALL OF DUTY | Accion | PC, PlayStation, Nintendo, Switch... | Activision, Treyarch, Infinity War |
 | POKÉMON | RPG | Nintendo | Game Freak |
 
+
+
+## Activitat 3 :three:
+
 <div id='id500' />
