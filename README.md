@@ -66,3 +66,5 @@ x
 ![image](https://user-images.githubusercontent.com/116662838/217281394-e278727a-6851-47cb-a59d-f2b8e40d5bc5.png)
 ![image](https://user-images.githubusercontent.com/116662838/217288065-b7b35186-6b59-4ccf-af49-b5ffa0d989b2.png)
 [ACTIVITAT COMPLETA](files/Torneo-de-juegos-final.accdb)
+
+<a href="https://www.buymeacoffee.com/janqueraltg"><img src="https://img.buymeacoffee.com/button-api/?text=Support me&emoji=😍&slug=janqueraltg&button_colour=FFDD00&font_colour=000000&font_family=Arial&outline_colour=000000&coffee_colour=ffffff" /></a>
