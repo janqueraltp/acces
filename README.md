@@ -64,6 +64,7 @@ x
 ## Activitat 3 :three:
 
 ![image](https://user-images.githubusercontent.com/116662838/217281394-e278727a-6851-47cb-a59d-f2b8e40d5bc5.png)
+![image](https://user-images.githubusercontent.com/116662838/217288065-b7b35186-6b59-4ccf-af49-b5ffa0d989b2.png)
 
 
 
