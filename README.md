@@ -7,7 +7,7 @@ Microsoft Acces - SMIX.1
 1. :bookmark_tabs: [Introducció](#id1)  
 2. :question: [ Qué es Acces?](#id3)
 3. :one: [Activitat 1](#id2)  
-4. :one: [Activitat 2](#id10)
+4. :two: [Activitat 2](#id10)
  
 <div id='id1' />  
 
