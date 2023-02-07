@@ -8,6 +8,7 @@ Microsoft Acces - SMIX.1
 2. :question: [ Qué es Acces?](#id3)
 3. :one: [Activitat 1](#id2)  
 4. :two: [Activitat 2](#id10)
+5. :three: [Activitat 3](#id11)
  
 <div id='id1' />  
 
@@ -57,6 +58,8 @@ x
 | POKÉMON | RPG | Nintendo | Game Freak |
 
 
+
+<div id='id11' />
 
 ## Activitat 3 :three:
 
